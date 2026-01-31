@@ -1,0 +1,497 @@
+gtfs_id,structure,north_direction_label,south_direction_label,full_time_crossover?,part_time_crossover?,mezzanine?,underpass?,overpass?
+101,Elevated,Last Stop,Manhattan,true,false,false,false,false
+103,Elevated,Van Cortlandt,Manhattan,false,false,false,false,false
+104,Elevated,Van Cortlandt,Manhattan,false,false,false,false,false
+106,Elevated,The Bronx,Downtown,false,false,false,false,false
+107,Elevated,The Bronx,Downtown,false,false,false,false,false
+108,Elevated,The Bronx,Downtown,false,false,false,false,false
+109,Elevated,The Bronx,Downtown,true,false,false,false,false
+110,Subway,The Bronx,Downtown,true,false,true,false,false
+111,Subway,The Bronx,Downtown,true,false,true,false,true
+112,Subway,Uptown,Downtown,true,false,true,false,false
+113,Subway,Uptown,Downtown,false,false,false,false,false
+114,Subway,Uptown,Downtown,false,false,false,false,false
+115,Subway,Uptown,Downtown,false,false,false,false,false
+116,Elevated,Uptown,Downtown,true,false,false,false,false
+117,Subway,Uptown,Downtown,true,false,true,false,false
+118,Subway,Uptown,Downtown,false,false,false,false,false
+119,Subway,Uptown,Downtown,true,false,true,false,false
+120,Subway,Uptown,Downtown,true,false,true,true,false
+121,Subway,Uptown,Downtown,false,true,false,false,false
+122,Subway,Uptown,Downtown,false,true,false,false,false
+123,Subway,Uptown,Downtown,true,false,false,false,false
+124,Subway,Uptown,Downtown,true,false,false,true,false
+125,Subway,Uptown,Downtown,true,false,true,true,false
+126,Subway,Uptown,Downtown,false,true,false,false,false
+127,Subway,Uptown,Downtown,true,false,true,false,false
+128,Subway,Uptown,Downtown,true,false,false,true,false
+129,Subway,Uptown,Downtown,false,true,false,false,false
+130,Subway,Uptown,Downtown,false,true,false,false,false
+131,Subway,Uptown,Downtown,false,true,false,false,false
+132,Subway,Uptown,Downtown,true,false,true,false,true
+133,Subway,Uptown,Downtown,false,true,false,false,false
+134,Subway,Uptown,Downtown,false,true,false,false,false
+135,Subway,Uptown,Downtown,false,true,false,false,false
+136,Subway,Uptown,Downtown,false,true,false,false,false
+137,Subway,Uptown,Downtown,true,false,true,false,false
+138,Subway,Uptown,Downtown,true,false,true,false,false
+139,Subway,Uptown,Downtown,false,false,false,false,false
+142,Subway,Uptown,Last Stop,true,false,true,false,false
+201,Elevated,Last Stop,Manhattan,true,false,false,false,false
+204,Elevated,Northbound,Manhattan,true,false,false,false,false
+205,Elevated,Northbound,Manhattan,true,false,true,false,false
+206,Elevated,Northbound,Manhattan,true,false,false,false,false
+207,Elevated,Northbound,Manhattan,true,false,false,false,false
+208,Elevated,Northbound,Manhattan,true,false,true,false,false
+209,Elevated,Northbound,Manhattan,true,false,false,false,false
+210,Elevated,Northbound,Manhattan,true,false,false,false,false
+211,Elevated,Northbound,Manhattan,true,false,true,false,false
+212,Elevated,Northbound,Manhattan,true,false,true,false,false
+213,Elevated,Northbound,Manhattan,true,false,false,false,false
+214,Elevated,Northbound,Manhattan,true,false,true,false,false
+215,Elevated,Northbound,Manhattan,false,false,false,false,false
+216,Elevated,Northbound,Manhattan,false,false,false,false,false
+217,Elevated,Northbound,Manhattan,false,false,false,false,false
+218,Elevated,Northbound,Manhattan,true,false,true,false,false
+219,Elevated,Northbound,Manhattan,false,false,false,false,false
+220,Elevated,Northbound,Manhattan,false,false,false,false,false
+221,Subway,Northbound,Manhattan,false,false,false,false,false
+222,Subway,Northbound,Manhattan,true,false,true,false,false
+224,Subway,Uptown,Downtown,false,false,false,false,false
+225,Subway,Uptown,Downtown,false,false,false,false,false
+226,Subway,Uptown,Downtown,false,false,false,false,false
+227,Subway,Uptown,Downtown,true,false,true,false,false
+228,Subway,Uptown,Brooklyn,true,false,true,false,false
+229,Subway,Uptown,Brooklyn,true,false,true,false,false
+230,Subway,Uptown,Brooklyn,true,false,true,false,false
+231,Subway,Manhattan,Outbound,true,false,false,false,false
+232,Subway,Manhattan,Outbound,true,false,true,false,false
+233,Subway,Manhattan,Outbound,false,false,false,false,false
+234,Subway,Manhattan,Outbound,true,false,true,true,false
+235,Subway,Manhattan,Outbound,true,false,true,true,false
+236,Subway,Manhattan,Outbound,false,false,false,false,false
+237,Subway,Manhattan,Outbound,true,false,true,false,false
+238,Subway,Manhattan,Outbound,true,false,true,false,false
+239,Subway,Manhattan,Outbound,true,false,true,true,false
+241,Subway,Manhattan,Flatbush,true,false,true,false,false
+242,Subway,Manhattan,Flatbush,true,false,true,false,false
+243,Subway,Manhattan,Flatbush,false,false,false,false,false
+244,Subway,Manhattan,Flatbush,false,false,false,false,false
+245,Subway,Manhattan,Flatbush,false,false,false,false,false
+246,Subway,Manhattan,Flatbush,false,false,false,false,false
+247,Subway,Manhattan,Last Stop,true,false,false,false,false
+248,Subway,Manhattan,Outbound,true,false,false,false,false
+249,Subway,Manhattan,Outbound,true,false,false,false,false
+250,Subway,Manhattan,Outbound,true,false,true,false,false
+251,Elevated,Manhattan,New Lots,true,false,false,false,false
+252,Elevated,Manhattan,New Lots,true,false,true,false,false
+253,Elevated,Manhattan,New Lots,true,false,false,false,false
+254,Elevated,Manhattan,New Lots,true,false,false,false,false
+255,Elevated,Manhattan,New Lots,true,false,false,false,false
+256,Elevated,Manhattan,New Lots,true,false,false,false,false
+257,Elevated,Manhattan,Last Stop,true,false,false,false,false
+301,Subway,Last Stop,Downtown,true,false,false,false,false
+302,Subway,Harlem,Downtown,false,false,false,false,false
+401,Elevated,Last Stop,Manhattan,true,false,true,false,false
+402,Elevated,Woodlawn,Manhattan,true,false,true,false,false
+405,Elevated,Northbound,Manhattan,true,false,false,false,false
+406,Elevated,Northbound,Manhattan,true,false,true,false,false
+407,Elevated,Northbound,Manhattan,true,false,true,false,false
+408,Elevated,Northbound,Manhattan,true,false,false,false,false
+409,Elevated,Northbound,Manhattan,true,false,false,false,false
+410,Elevated,Northbound,Manhattan,true,false,false,false,false
+411,Elevated,Northbound,Manhattan,true,false,false,false,false
+412,Elevated,Northbound,Manhattan,true,false,true,false,false
+413,Elevated,Northbound,Manhattan,true,false,true,false,false
+414,Elevated,Northbound,Manhattan,true,false,true,false,false
+415,Subway,Northbound,Manhattan,true,false,true,false,false
+416,Subway,Northbound,Manhattan,true,false,true,false,true
+418,Subway,Uptown,Downtown,true,false,true,true,false
+419,Subway,Uptown,Downtown,true,false,false,true,false
+420,Subway,Uptown,Downtown,true,false,true,true,false
+423,Subway,Manhattan,Outbound,true,false,true,false,true
+501,At Grade,Last Stop,Manhattan,true,false,false,false,false
+502,Open Cut,Eastchester,Manhattan,true,false,false,true,false
+503,Open Cut,Eastchester,Manhattan,true,false,false,false,false
+504,Open Cut,Eastchester,Manhattan,true,false,false,false,false
+505,Open Cut,Eastchester,Manhattan,true,false,false,true,false
+601,Elevated,Last Stop,Manhattan,true,false,true,false,false
+602,Elevated,Pelham Bay,Manhattan,true,false,false,false,false
+603,Elevated,Pelham Bay,Manhattan,true,false,true,false,false
+604,Elevated,Pelham Bay,Manhattan,true,false,true,false,false
+606,Elevated,Pelham Bay,Manhattan,true,false,false,false,false
+607,Elevated,Pelham Bay,Manhattan,true,false,false,false,false
+608,Elevated,Northbound,Manhattan,true,false,false,false,false
+609,Elevated,Northbound,Manhattan,true,false,true,false,false
+610,Elevated,Northbound,Manhattan,true,false,true,false,false
+611,Elevated,Northbound,Manhattan,true,false,true,false,false
+612,Elevated,Northbound,Manhattan,true,false,false,true,false
+613,Subway,Northbound,Manhattan,true,false,true,false,false
+614,Subway,Northbound,Manhattan,false,false,false,false,false
+615,Subway,Northbound,Manhattan,false,false,false,false,false
+616,Subway,Northbound,Manhattan,false,false,false,false,false
+617,Subway,Northbound,Manhattan,false,false,false,false,false
+618,Subway,Northbound,Manhattan,false,false,false,false,false
+619,Subway,Northbound,Manhattan,true,false,true,false,false
+621,Subway,The Bronx,Downtown,true,false,true,false,false
+622,Subway,The Bronx,Downtown,false,true,false,false,false
+623,Subway,The Bronx,Downtown,false,true,false,false,false
+624,Subway,The Bronx,Downtown,true,false,true,false,false
+625,Subway,The Bronx,Downtown,true,false,true,false,false
+626,Subway,Uptown,Downtown,false,true,true,false,false
+627,Subway,Uptown,Downtown,false,true,false,false,false
+628,Subway,Uptown,Downtown,true,false,true,false,false
+629,Subway,Uptown,Downtown,true,false,true,false,false
+630,Subway,Uptown,Downtown,true,false,true,true,false
+631,Subway,Uptown,Downtown,true,false,true,false,false
+632,Subway,Uptown,Downtown,false,true,false,false,false
+633,Subway,Uptown,Downtown,false,true,false,false,false
+634,Subway,Uptown,Downtown,false,true,false,false,false
+635,Subway,Uptown,Downtown,true,false,true,false,false
+636,Subway,Uptown,Downtown,false,true,false,false,false
+637,Subway,Uptown,Downtown,false,true,true,false,false
+638,Subway,Uptown,Downtown,false,false,false,false,false
+639,Subway,Uptown,Downtown,true,false,true,false,false
+640,Subway,Uptown,Downtown,true,false,true,false,false
+701,Subway,Last Stop,Manhattan,true,false,true,false,false
+702,Elevated,Outbound,Manhattan,true,false,true,false,false
+705,Elevated,Outbound,Manhattan,true,false,false,false,false
+706,Elevated,Outbound,Manhattan,true,false,false,false,false
+707,Elevated,Outbound,Manhattan,true,false,true,false,true
+708,Elevated,Outbound,Manhattan,true,false,false,false,false
+709,Elevated,Outbound,Manhattan,true,false,false,false,false
+710,Elevated,Outbound,Manhattan,true,false,true,false,false
+711,Elevated,Outbound,Manhattan,true,false,true,false,false
+712,Elevated,Outbound,Manhattan,true,false,true,false,false
+713,Elevated,Outbound,Manhattan,true,false,false,false,false
+714,Elevated,Outbound,Manhattan,true,false,false,false,false
+715,Elevated,Outbound,Manhattan,false,false,false,false,false
+716,Elevated,Outbound,Manhattan,true,false,false,false,false
+718,Elevated,Outbound,Manhattan,true,false,true,false,false
+719,Elevated,Outbound,Manhattan,true,false,true,false,false
+720,Subway,Outbound,Manhattan,true,false,true,false,true
+721,Subway,Outbound,Manhattan,false,false,false,false,false
+723,Subway,Queens,Hudson Yards,true,false,true,false,false
+724,Subway,Queens,Hudson Yards,true,false,true,false,false
+725,Subway,Queens,Hudson Yards,true,false,true,false,false
+726,Subway,Last Stop,Queens,true,false,true,false,false
+901,Subway,Times Square,Last Stop,true,false,true,false,false
+902,Subway,Last Stop,Grand Central,true,false,true,false,false
+A02,Subway,Last Stop,Downtown,true,false,true,false,false
+A03,Subway,Uptown,Downtown,true,false,false,true,false
+A05,Subway,Uptown,Downtown,true,false,true,false,false
+A06,Subway,Uptown,Downtown,true,false,true,false,false
+A07,Subway,Uptown,Downtown,true,false,true,false,false
+A09,Subway,Uptown,Downtown,true,false,true,false,false
+A10,Subway,Uptown,Downtown,true,false,true,false,false
+A11,Subway,Uptown,Downtown,true,false,true,false,false
+A12,Subway,Uptown,Downtown,true,false,true,false,false
+A14,Subway,Uptown,Downtown,false,true,false,false,false
+A15,Subway,Uptown,Downtown,true,false,true,false,false
+A16,Subway,Uptown,Downtown,false,true,false,false,false
+A17,Subway,Uptown,Downtown,true,false,true,true,false
+A18,Subway,Uptown,Downtown,true,false,false,false,false
+A19,Subway,Uptown,Downtown,true,false,false,false,false
+A20,Subway,Uptown,Downtown,true,false,false,false,false
+A21,Subway,Uptown,Downtown,true,false,false,false,false
+A22,Subway,Uptown,Downtown,true,false,false,false,false
+A24,Subway,Uptown,Downtown,true,false,true,true,false
+A25,Subway,Uptown,Downtown,false,false,false,false,false
+A27,Subway,Uptown,Downtown,true,false,true,false,false
+A28,Subway,Uptown,Downtown,true,false,true,true,false
+A30,Subway,Uptown,Downtown,true,false,false,true,false
+A31,Subway,Uptown,Downtown,true,false,false,false,false
+A32,Subway,Uptown,Downtown,true,false,true,false,false
+A33,Subway,Uptown,Downtown,true,false,false,true,false
+A34,Subway,Uptown,Downtown,true,false,true,true,false
+A36,Subway,Uptown,Brooklyn,true,false,true,false,false
+A38,Subway,Uptown,Brooklyn,true,false,true,false,false
+A40,Subway,Manhattan,Outbound,true,false,false,false,false
+A41,Subway,Manhattan,Outbound,true,false,true,false,false
+A42,Subway,Westbound,Queens,true,false,true,false,false
+A43,Subway,Manhattan,Outbound,true,false,true,false,false
+A44,Subway,Manhattan,Outbound,false,true,false,false,false
+A45,Subway,Manhattan,Outbound,true,false,false,false,false
+A46,Subway,Manhattan,Outbound,false,false,false,false,false
+A47,Subway,Manhattan,Outbound,false,true,false,false,false
+A48,Subway,Manhattan,Outbound,true,false,true,false,false
+A49,Subway,Manhattan,Outbound,true,false,false,false,false
+A50,Subway,Manhattan,Outbound,true,false,true,false,false
+A51,Subway,Manhattan,Outbound,true,false,false,false,false
+A52,Subway,Manhattan,Outbound,true,false,true,false,false
+A53,Subway,Manhattan,Outbound,true,false,true,false,false
+A54,Subway,Manhattan,Outbound,true,false,true,false,false
+A55,Subway,Manhattan,Queens,true,false,true,false,false
+A57,Subway,Manhattan,Queens,true,false,true,false,false
+A59,Elevated,Manhattan,Outbound,true,false,false,false,false
+A60,Elevated,Manhattan,Outbound,true,false,false,false,false
+A61,Elevated,Manhattan,Outbound,true,false,true,false,false
+A63,Elevated,Manhattan,Ozone Park,true,false,false,false,false
+A64,Elevated,Manhattan,Ozone Park,true,false,false,false,false
+A65,Elevated,Manhattan,Last Stop,true,false,true,false,false
+B04,Subway,Outbound,Manhattan,true,false,false,false,true
+B06,Subway,Queens,Downtown,true,false,true,false,false
+B08,Subway,Uptown & Queens,Downtown,true,false,true,false,false
+B10,Subway,Uptown,Downtown,true,false,true,false,false
+B12,Open Cut,Manhattan,Southbound,true,false,false,false,false
+B13,Elevated,Manhattan,Southbound,true,false,false,false,false
+B14,Elevated,Manhattan,Southbound,true,false,false,false,false
+B15,Elevated,Manhattan,Southbound,true,false,false,false,false
+B16,Elevated,Manhattan,Southbound,true,false,true,false,false
+B17,Elevated,Manhattan,Southbound,true,false,false,false,false
+B18,Elevated,Manhattan,Southbound,true,false,false,false,false
+B19,Elevated,Manhattan,Southbound,true,false,false,false,false
+B20,Elevated,Manhattan,Southbound,true,false,false,false,false
+B21,Elevated,Manhattan,Southbound,true,false,false,false,false
+B22,Elevated,Manhattan,Coney Island,true,false,false,false,false
+B23,Elevated,Manhattan,Coney Island,true,false,true,false,false
+D01,Subway,Last Stop,Manhattan,true,false,true,false,false
+D03,Subway,Northbound,Manhattan,true,false,true,true,false
+D04,Subway,Northbound,Manhattan,true,false,true,true,false
+D05,Subway,Northbound,Manhattan,true,false,false,true,false
+D06,Subway,Northbound,Manhattan,true,false,true,false,false
+D07,Subway,Northbound,Manhattan,true,false,true,true,false
+D08,Subway,Northbound,Manhattan,true,false,true,false,true
+D09,Subway,Northbound,Manhattan,true,false,true,true,false
+D10,Subway,Northbound,Manhattan,true,false,true,true,false
+D11,Subway,Northbound,Manhattan,true,false,true,true,false
+D12,Subway,The Bronx,Downtown,true,false,true,false,false
+D13,Subway,Uptown,Downtown,true,false,true,false,false
+D14,Subway,Outbound,Downtown,true,false,true,false,false
+D15,Subway,Uptown,Downtown,true,false,true,false,false
+D16,Subway,Uptown,Downtown,true,false,true,false,false
+D17,Subway,Uptown,Downtown,true,false,false,false,false
+D18,Subway,Uptown,Downtown,false,false,false,false,false
+D19,Subway,Uptown,Downtown,true,false,true,false,false
+D20,Subway,Uptown,Downtown,true,false,true,false,false
+D21,Subway,Uptown,Downtown,true,false,true,false,false
+D22,Subway,Uptown,Brooklyn,true,false,true,false,false
+D24,Subway,Manhattan,Southbound,true,false,true,false,false
+D25,Subway,Manhattan,Southbound,true,false,true,false,false
+D26,Open Cut,Northbound,Southbound,true,false,false,false,false
+D27,Open Cut,Manhattan,Southbound,true,false,false,false,false
+D28,Open Cut,Manhattan,Southbound,true,false,false,false,false
+D29,Open Cut,Manhattan,Southbound,true,false,false,false,false
+D30,Open Cut,Manhattan,Southbound,true,false,false,false,false
+D31,Open Cut,Manhattan,Southbound,true,false,false,false,false
+D32,Open Cut,Manhattan,Southbound,true,false,false,true,false
+D33,Open Cut,Manhattan,Southbound,true,false,false,true,false
+D34,Open Cut,Manhattan,Southbound,true,false,false,true,false
+D35,Open Cut,Manhattan,Southbound,true,false,false,false,false
+D37,Open Cut,Manhattan,Southbound,true,false,false,false,false
+D38,Open Cut,Manhattan,Southbound,true,false,false,true,false
+D39,Open Cut,Manhattan,Southbound,true,false,false,false,false
+D40,Elevated,Manhattan,Southbound,true,false,false,false,false
+D41,Elevated,Manhattan,Coney Island,true,false,false,false,false
+D42,Elevated,Manhattan,Coney Island,true,false,false,false,false
+D43,Viaduct,Manhattan,Last Stop,true,false,false,false,true
+E01,Subway,Uptown,Last Stop,true,false,true,false,false
+F01,Subway,Last Stop,Manhattan,true,false,true,false,false
+F02,Subway,Jamaica,Manhattan,true,false,true,false,false
+F03,Subway,Jamaica,Manhattan,true,false,true,false,false
+F04,Subway,Jamaica,Manhattan,true,false,true,false,false
+F05,Subway,Jamaica,Manhattan,false,false,false,false,false
+F06,Subway,Jamaica,Manhattan,true,false,true,true,false
+F07,Subway,Jamaica,Manhattan,false,false,false,false,false
+F09,Subway,Outbound,Manhattan,true,false,true,false,false
+F11,Subway,Queens,Downtown,true,false,true,true,false
+F12,Subway,Queens,Downtown,true,false,true,true,false
+F14,Subway,Uptown,Downtown,true,false,true,false,false
+F15,Subway,Uptown,Brooklyn,true,false,true,false,false
+F16,Subway,Uptown,Brooklyn,true,false,false,false,false
+F18,Subway,Manhattan,Southbound,true,false,false,false,false
+F20,Subway,Northbound,Southbound,false,false,false,false,false
+F21,Subway,Northbound,Southbound,true,false,true,false,true
+F22,Viaduct,Northbound,Southbound,true,false,true,false,false
+F23,Viaduct,Northbound,Southbound,true,false,true,false,true
+F24,Subway,Northbound,Southbound,true,false,true,false,false
+F25,Subway,Northbound,Southbound,true,false,true,false,false
+F26,Subway,Northbound,Southbound,true,false,true,false,false
+F27,Subway,Northbound,Southbound,true,false,true,false,false
+F29,Elevated,Manhattan,Southbound,true,false,false,false,false
+F30,Elevated,Manhattan,Southbound,true,false,false,false,false
+F31,Elevated,Manhattan,Southbound,true,false,false,false,false
+F32,Elevated,Manhattan,Southbound,true,false,false,false,false
+F33,Elevated,Manhattan,Southbound,true,false,false,false,false
+F34,Elevated,Manhattan,Southbound,true,false,false,false,false
+F35,Elevated,Manhattan,Southbound,true,false,false,false,false
+F36,Elevated,Manhattan,Coney Island,true,false,false,false,false
+F38,Elevated,Manhattan,Coney Island,true,false,false,false,false
+F39,Elevated,Manhattan,Coney Island,true,false,false,false,false
+G05,Subway,Last Stop,Manhattan,true,false,true,false,false
+G06,Subway,Jamaica,Manhattan,true,false,true,false,false
+G07,Subway,Jamaica,Manhattan,true,false,true,false,false
+G08,Subway,Outbound,Manhattan,true,false,true,false,false
+G09,Subway,Outbound,Manhattan,true,false,true,false,false
+G10,Subway,Outbound,Manhattan,true,false,true,false,false
+G11,Subway,Outbound,Manhattan,true,false,true,true,false
+G12,Subway,Outbound,Manhattan,true,false,true,false,false
+G13,Subway,Outbound,Manhattan,true,false,true,false,false
+G14,Subway,Outbound,Manhattan,true,false,true,false,false
+G15,Subway,Outbound,Manhattan,true,false,true,false,false
+G16,Subway,Outbound,Manhattan,false,false,false,false,false
+G18,Subway,Outbound,Manhattan,false,true,false,false,false
+G19,Subway,Outbound,Manhattan,true,false,true,false,false
+G20,Subway,Outbound,Manhattan,false,true,true,false,false
+G21,Subway,Outbound,Manhattan,true,false,true,false,false
+G22,Subway,Last Stop,Brooklyn,true,false,true,false,false
+G24,Subway,Court Square,Brooklyn,true,false,true,false,false
+G26,Subway,Queens,Southbound,true,false,true,false,false
+G28,Subway,Queens,Southbound,true,false,true,false,true
+G29,Subway,Queens,Southbound,true,false,true,true,false
+G30,Subway,Queens,Southbound,true,false,false,false,false
+G31,Subway,Queens,Southbound,true,false,true,false,false
+G32,Subway,Queens,Southbound,true,false,false,true,false
+G33,Subway,Queens,Southbound,true,false,true,true,false
+G34,Subway,Queens,Southbound,true,false,true,false,false
+G35,Subway,Queens,Southbound,true,false,true,false,false
+G36,Subway,Queens,Southbound,true,false,true,true,false
+H01,At Grade,Manhattan,Rockaways,true,false,true,true,false
+H02,At Grade,Manhattan,Rockaways,true,false,true,true,false
+H03,At Grade,Manhattan,Rockaways,true,false,true,false,true
+H04,At Grade,Inbound,Rockaways,true,false,false,false,true
+H06,Viaduct,Manhattan,Far Rockaway,true,false,true,false,false
+H07,Viaduct,Manhattan,Far Rockaway,true,false,true,false,false
+H08,Viaduct,Manhattan,Far Rockaway,true,false,true,false,false
+H09,Viaduct,Manhattan,Far Rockaway,true,false,false,false,false
+H10,Viaduct,Manhattan,Far Rockaway,true,false,true,false,false
+H11,Viaduct,Manhattan,Last Stop,true,false,false,false,false
+H12,Viaduct,Inbound,Rockaway Park,true,false,true,false,false
+H13,Viaduct,Inbound,Rockaway Park,true,false,true,false,false
+H14,Viaduct,Inbound,Rockaway Park,true,false,true,false,false
+H15,At Grade,Inbound,Last Stop,true,false,true,false,false
+J12,Elevated,Jamaica,Manhattan,true,false,true,false,false
+J13,Elevated,Jamaica,Manhattan,true,false,false,false,false
+J14,Elevated,Jamaica,Manhattan,true,false,false,false,false
+J15,Elevated,Jamaica,Manhattan,true,false,false,false,false
+J16,Elevated,Jamaica,Manhattan,true,false,false,false,false
+J17,Elevated,Jamaica,Manhattan,true,false,false,false,false
+J19,Elevated,Queens,Manhattan,true,false,false,false,false
+J20,Elevated,Outbound,Manhattan,true,false,false,false,false
+J21,Elevated,Outbound,Manhattan,true,false,false,false,false
+J22,Elevated,Outbound,Manhattan,true,false,false,false,false
+J23,Elevated,Outbound,Manhattan,true,false,true,false,false
+J24,Elevated,Outbound,Manhattan,true,false,false,false,false
+J27,Elevated,Outbound,Manhattan,true,false,true,false,true
+J28,Elevated,Outbound,Manhattan,true,false,false,false,false
+J29,Elevated,Outbound,Manhattan,true,false,false,false,false
+J30,Elevated,Outbound,Manhattan,true,false,false,false,false
+J31,Elevated,Outbound,Manhattan,true,false,false,false,false
+L01,Subway,Last Stop,Brooklyn,true,false,true,false,false
+L02,Subway,West Side,Brooklyn,true,false,true,false,false
+L03,Subway,West Side,Brooklyn,true,false,true,false,false
+L05,Subway,West Side,Brooklyn,false,false,false,false,false
+L06,Subway,West Side,Brooklyn,false,false,false,false,false
+L08,Subway,Manhattan,Outbound,true,false,true,false,false
+L10,Subway,Manhattan,Outbound,true,false,true,true,false
+L11,Subway,Manhattan,Outbound,false,false,false,false,false
+L12,Subway,Manhattan,Outbound,false,false,false,false,false
+L13,Subway,Manhattan,Outbound,true,false,true,false,false
+L14,Subway,Manhattan,Outbound,true,false,true,false,false
+L15,Subway,Manhattan,Outbound,true,false,true,false,false
+L16,Subway,Manhattan,Outbound,true,false,true,false,false
+L17,Subway,Manhattan,Outbound,true,false,true,false,false
+L19,Subway,Manhattan,Outbound,false,false,false,false,false
+L20,Subway,Manhattan,Outbound,true,false,false,false,false
+L21,Subway,Manhattan,Outbound,true,false,false,false,false
+L22,Elevated,Manhattan,Outbound,true,false,true,false,true
+L24,Elevated,Manhattan,Canarsie,true,false,true,false,false
+L25,Elevated,Manhattan,Canarsie,true,false,false,false,true
+L26,Elevated,Manhattan,Canarsie,true,false,true,false,true
+L27,Elevated,Manhattan,Canarsie,true,false,false,false,false
+L28,At Grade,Manhattan,Canarsie,true,false,false,true,false
+L29,At Grade,Manhattan,Last Stop,true,false,false,false,false
+M01,Elevated,Inbound,Last Stop,true,false,false,false,false
+M04,Elevated,Inbound,Middle Village,true,false,false,false,false
+M05,Elevated,Inbound,Middle Village,true,false,false,false,false
+M06,Elevated,Inbound,Middle Village,true,false,false,false,false
+M08,Elevated,Inbound,Middle Village,true,false,true,false,false
+M09,Elevated,Inbound,Middle Village,true,false,true,false,false
+M10,Elevated,Inbound,Middle Village,true,false,false,false,false
+M11,Elevated,Outbound,Manhattan,true,false,false,false,false
+M12,Elevated,Outbound,Manhattan,true,false,true,false,false
+M13,Elevated,Outbound,Manhattan,true,false,true,false,false
+M14,Elevated,Outbound,Manhattan,true,false,true,false,false
+M16,Elevated,Outbound,Manhattan,false,false,false,false,false
+M18,Subway,Brooklyn,Inbound,true,false,false,true,false
+M19,Subway,Brooklyn,Downtown,true,false,false,false,false
+M20,Subway,Brooklyn,Downtown,true,false,false,false,false
+M21,Subway,Brooklyn,Downtown,true,false,true,false,false
+M22,Subway,Brooklyn,Downtown,true,false,true,false,false
+M23,Subway,Brooklyn,Last Stop,true,false,false,false,false
+N02,Open Cut,Manhattan,Coney Island,true,false,false,false,false
+N03,Open Cut,Manhattan,Coney Island,true,false,false,false,true
+N04,Open Cut,Manhattan,Coney Island,true,false,true,false,true
+N05,Open Cut,Manhattan,Coney Island,true,false,false,false,true
+N06,Open Cut,Manhattan,Coney Island,true,false,false,false,false
+N07,Open Cut,Manhattan,Coney Island,true,false,true,false,true
+N08,Open Cut,Manhattan,Coney Island,true,false,false,false,false
+N09,Open Cut,Manhattan,Coney Island,true,false,false,false,true
+N10,Open Cut,Manhattan,Coney Island,true,false,false,false,false
+Q01,Subway,Uptown,Downtown,true,false,false,false,false
+Q03,Subway,Uptown,Downtown,true,false,true,false,false
+Q04,Subway,Uptown,Downtown,true,false,true,false,false
+Q05,Subway,Last Stop,Downtown,true,false,true,false,false
+R01,Elevated,Last Stop,Manhattan,true,false,true,false,false
+R03,Elevated,Astoria,Manhattan,true,false,true,false,false
+R04,Elevated,Astoria,Manhattan,true,false,false,false,false
+R05,Elevated,Astoria,Manhattan,false,false,false,false,false
+R06,Elevated,Astoria,Manhattan,true,false,false,false,false
+R08,Elevated,Astoria,Manhattan,true,false,true,false,false
+R09,Elevated,Astoria,Manhattan,true,false,true,false,false
+R11,Subway,Queens,Downtown,true,false,true,false,false
+R13,Subway,Queens,Downtown,true,false,true,false,false
+R14,Subway,Uptown,Downtown,true,false,true,false,false
+R15,Subway,Uptown,Downtown,false,false,false,false,false
+R16,Subway,Uptown,Downtown,true,false,true,false,false
+R17,Subway,Uptown,Downtown,true,false,true,false,false
+R18,Subway,Uptown,Downtown,false,false,false,false,false
+R19,Subway,Uptown,Downtown,false,false,false,false,false
+R20,Subway,Uptown,Downtown,true,false,true,false,false
+R21,Subway,Uptown,Downtown,false,false,false,false,false
+R22,Subway,Uptown,Downtown,false,false,false,false,false
+R23,Subway,Uptown,Downtown,true,false,false,true,false
+R24,Subway,Uptown,Downtown,true,false,false,false,false
+R25,Subway,Uptown,Downtown,true,false,false,true,false
+R26,Subway,Uptown,Downtown,false,false,false,false,false
+R27,Subway,Uptown,Downtown,true,false,true,false,false
+R28,Subway,Manhattan,Southbound,true,false,true,false,false
+R29,Subway,Manhattan,Southbound,true,false,true,false,false
+R30,Subway,Manhattan,Southbound,true,false,true,false,false
+R31,Subway,Manhattan,Southbound,true,false,true,false,false
+R32,Subway,Manhattan,Southbound,false,true,false,false,false
+R33,Subway,Manhattan,Southbound,true,false,true,false,false
+R34,Subway,Manhattan,Southbound,false,true,false,false,false
+R35,Subway,Manhattan,Southbound,false,true,false,false,false
+R36,Subway,Manhattan,Southbound,true,false,true,false,false
+R39,Subway,Manhattan,Southbound,true,false,true,false,false
+R40,Subway,Manhattan,Southbound,true,false,true,false,false
+R41,Subway,Manhattan,Southbound,true,false,true,false,false
+R42,Subway,Manhattan,Bay Ridge,true,false,true,false,false
+R43,Subway,Manhattan,Bay Ridge,true,false,true,false,false
+R44,Subway,Manhattan,Bay Ridge,true,false,true,false,false
+R45,Subway,Manhattan,Last Stop,true,false,true,false,false
+S01,Elevated,Last Stop,Prospect Park,true,false,false,false,false
+S03,Open Cut,Franklin Av,Prospect Park,true,false,false,false,false
+S04,Open Cut,Franklin Av,Prospect Park,true,false,true,false,false
+S09,At Grade,Ferry,Last Stop,true,false,false,false,false
+S11,At Grade,Ferry,Tottenville,true,false,false,false,false
+S13,Open Cut,Ferry,Tottenville,true,false,false,false,false
+S14,Embankment,Ferry,South Shore,true,false,false,false,false
+S15,Open Cut,Ferry,South Shore,true,false,false,false,false
+S16,Open Cut,Ferry,South Shore,true,false,false,false,false
+S17,Open Cut,Ferry,South Shore,true,false,false,false,false
+S18,Embankment,Ferry,South Shore,true,false,false,false,false
+S19,Open Cut,Ferry,South Shore,true,false,false,false,false
+S20,Embankment,Ferry,South Shore,true,false,false,false,false
+S21,Open Cut,Ferry,South Shore,true,false,false,false,false
+S22,Open Cut,Ferry,South Shore,true,false,false,false,false
+S23,Open Cut,Ferry,South Shore,true,false,false,false,false
+S24,Embankment,Ferry,South Shore,true,false,false,false,false
+S25,Embankment,Ferry,South Shore,true,false,false,false,false
+S26,Embankment,Ferry,South Shore,true,false,false,false,false
+S27,Open Cut,Ferry,South Shore,true,false,false,false,false
+S28,Elevated,Ferry,South Shore,true,false,false,false,false
+S29,Elevated,Ferry,South Shore,true,false,false,false,false
+S30,At Grade,Ferry,South Shore,true,false,false,false,false
+S31,Open Cut,Last Stop,South Shore,true,false,false,false,false
